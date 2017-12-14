@@ -62,3 +62,4 @@ Data count    : 02 bytes
 
 Process finished with exit code 0
 ```
+Security perspective of modbus: https://github.com/caffedrine/Tools/tree/master/Pentest/Industrial/Modbus
