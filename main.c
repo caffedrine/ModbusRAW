@@ -89,7 +89,7 @@ int main()
     
     //Modbus data count
     modbus_packet[10] = 0x00;
-    modbus_packet[11] = 0x1A;
+    modbus_packet[11] = 0x0F;
 
     // Display packet you just created
     printf("-------------\nRequest RAW: ");
